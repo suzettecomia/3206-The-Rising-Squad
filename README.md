@@ -7,6 +7,8 @@ However, one of the reasons for the alter within the returns pattern is the race
 Countries got to make strides in quality, endeavor for brilliance, and extend openings, based on productivity and value. This means ensuring that distraught youth select and succeed. Quality education is really one of the foremost effective instruments for lessening destitution and imbalance and it sets the establishment for supported economic development. It tends to raise efficiency and inventiveness, as well as fortify business and innovative breakthroughs. All of these variables lead to more prominent yield and economic growth.
 
 ## Problem Statement
+The problem to be addressed through this research is the rising number of unemployment and the dropping in global GDP that affects millions of people. Also, the quality of education that many people did not achieve leads to the economic growth slowdown. COVID-19 destroyed billions of lives and put the global economy at risk. The International Monetary Fund (IMF) expects the global recession to be as good or better than in 2009. As unemployment rises, the International Labor Organization (ILO) estimates that nearly half of the world’s workers are at risk of losing their jobs. The root of this problem is the increasing number of youth that are out of school. By the research that was conducted by UNESCO last April 2020, around 1.6 billion children and youth were out of school. And nearly 369 million children who rely on school meals need to look to other sources for daily nutrition.
+
 
 ## Significance of the proposed project
 
