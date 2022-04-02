@@ -1,7 +1,9 @@
 # Project Title: Quality Education Enhancement Lead to Economic Growth
 ## Introduction
 Education is important for achieving economic and social progress, enhancing people's lives, and rising income. Also, it increases people's productivity while also boosting business and technological growth. Most countries are now on the point of expanding access to various school levels, as well as taking the initiative to resolve difficulties in education at all levels. No country can achieve economic growth without a substantial investment in human capital.
+
 However, one of the reasons for the alter within the returns pattern is the race between innovation and education, as labor markets alter to computerization. In this modern world, the capacity of laborers to compete is crippled by the destitute execution of education systems in most creating nations. Innovative change and worldwide competition request the dominance of competencies and the procurement of new skills for many. Due to COVID-19, education issues in the Philippines have increased and received new challenges that worsened the current state of the country. Further, a blended learning program was launched in October 2020, which involves online classes, printouts, and lessons broadcast on TV and social platforms. Thus, the new learning pathways rely on students and teachers having access to the internet (Childhope Ph, 2021).
+
 Countries got to make strides in quality, endeavor for brilliance, and extend openings, based on productivity and value. This means ensuring that distraught youth select and succeed. Quality education is really one of the foremost effective instruments for lessening destitution and imbalance and it sets the establishment for supported economic development. It tends to raise efficiency and inventiveness, as well as fortify business and innovative breakthroughs. All of these variables lead to more prominent yield and economic growth.
 
 ## Problem Statement
