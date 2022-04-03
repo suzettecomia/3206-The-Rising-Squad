@@ -31,6 +31,9 @@ Economic growth will be achieved on this proposed topic. Having good graduates t
 
 ## Methods
 
+The exploratory analysis (EDA) method will be used for Quality Education Enhancement Lead for Economic Growth. This research identifies the role of education in contributing to economic growth, with a specific focus on the quality of education. It shows that population cognitive skills, rather than simply school accomplishment, were highly related to individual salaries, income distribution, and economic growth. New research findings emphasize the importance of basic and advanced skills, as well as the complementarity of skills and the quality of institutions, and the strength of the skills-growth relationship. The differences between countries that include more data on cognitive skills reveal substantially bigger skill deficits in poor nations than would be expected based on school enrolment and completion alone. Because of the degree of change required, narrowing the economic gap with industrialized countries will be necessary.
+
+
 ## Expected output 
 
 ## References
