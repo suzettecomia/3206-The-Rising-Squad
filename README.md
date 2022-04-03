@@ -17,17 +17,19 @@ This proposed project will redound to society’s benefit, considering that the 
 
 This study will be beneficial to:
 
-The Students
+__The Students__
 
-The direct recipients of the output of this proposed topic are the students. The improvement of the quality of their education will give them a better opportunity to have more knowledge and somehow give them some more experience on the things that they will possibly encounter in their future.
+The direct recipients of the output of this proposed topic are the students. The improvement of the quality of their education will give them a better opportunity to have more knowledge and somehow give them some more experience on the things that they will possibly encounter in their future. Also, this study will be a great help to the students because it will serve as a guide in doing their research.
 
-The Teachers
 
-Since the proposed project is an enhancement of quality education the teachers will receive much more new knowledge for the improvements of the lessons they are sharing with the student. This will also serve as an increase in the experience of the teachers. Having those teachers will benefit from more knowledge that they can use in their teaching techniques for the future.
+__The Teachers__
 
-The Economy
+Since the proposed project is an enhancement of the quality of education, teachers will receive more new knowledge for the improvements of the lessons they share with the students. It will also serve to increase the experience of teachers. In addition, the findings of the study can be used by teachers who teach classes about education and economic growth.
+
+__The Economy__
 
 Economic growth will be achieved on this proposed topic. Having good graduates that have a background of the enhancement of the quality of education will produce a student that is more equipped in the field and it will give much more productive work that will somehow help our economy rise up and this also could be the start to have a rich economy.
+
 
 ## Methods
 
