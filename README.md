@@ -2,14 +2,14 @@
 ## Introduction
 Education is important for achieving economic and social progress, enhancing people's lives, and rising income. Also, it increases people's productivity while also boosting business and technological growth. Most countries are now on the point of expanding access to various school levels, as well as taking the initiative to resolve difficulties in education at all levels. No country can achieve economic growth without a substantial investment in human capital.
 
-However, one of the reasons for the alter within the returns pattern is the race between innovation and education, as labor markets alter to computerization. In this modern world, the capacity of laborers to compete is crippled by the destitute execution of education systems in most creating nations. Innovative change and worldwide competition request the dominance of competencies and the procurement of new skills for many. Due to COVID-19, education issues in the Philippines have increased and received new challenges that worsened the current state of the country. Further, a blended learning program was launched in October 2020, which involves online classes, printouts, and lessons broadcast on TV and social platforms. Thus, the new learning pathways rely on students and teachers having access to the internet (Childhope Ph, 2021).
+However, one of the reasons for the alter within the returns pattern is the race between innovation and education, as labor markets alter to computerization. In this modern world, the capacity of laborers to compete is crippled by the destitute execution of education systems in most creating nations. Innovative change and worldwide competition request the dominance of competencies and the procurement of new skills for many. Due to COVID-19, education issues in the Philippines have increased and received new challenges that worsened the current state of the country. Further, a blended learning program was launched in October 2020, which involves online classes, printouts, and lessons broadcast on TV and social platforms. Thus, the new learning pathways rely on students and teachers having access to the internet ([Childhope Ph, 2021](https://childhope.org.ph/education-issues-in-the-philippines/#)).
 
 Countries got to make strides in quality, endeavor for brilliance, and extend openings, based on productivity and value. This means ensuring that distraught youth select and succeed. Quality education is really one of the foremost effective instruments for lessening destitution and imbalance and it sets the establishment for supported economic development. It tends to raise efficiency and inventiveness, as well as fortify business and innovative breakthroughs. All of these variables lead to more prominent yield and economic growth.
 
 ## Problem Statement
 The problem to be addressed through this research is the rising number of unemployment and the dropping in global GDP that affects millions of people. Also, the quality of education that many people did not achieve leads to the economic growth slowdown. COVID-19 destroyed billions of lives and put the global economy at risk. The International Monetary Fund (IMF) expects the global recession to be as good or better than in 2009. As unemployment rises, the International Labor Organization (ILO) estimates that nearly half of the world’s workers are at risk of losing their jobs. The root of this problem is the increasing number of youth that are out of school. By the research that was conducted by UNESCO last April 2020, around 1.6 billion children and youth were out of school. And nearly 369 million children who rely on school meals need to look to other sources for daily nutrition.
 
-There are three main outcomes. First, the nonlinear effect of per capita government expenditure on higher education on economic growth in the ASEAN-5 region was confirmed. However, the effect does not follow the law of diminishing returns. Second, our findings show that increasing unemployment among highly educated workers can have a positive or negative effect on economic growth, so appropriate policies are needed to address the negative impact. Finally, secondary and higher education enrollment rates can contribute to economic growth (both individual and regional) in ASEAN-5. However, regional analysis shows that higher education impacts are twice as strong when enrollment rates are above a certain kink point. (Maneejuk, 2021)
+There are three main outcomes. First, the nonlinear effect of per capita government expenditure on higher education on economic growth in the ASEAN-5 region was confirmed. However, the effect does not follow the law of diminishing returns. Second, our findings show that increasing unemployment among highly educated workers can have a positive or negative effect on economic growth, so appropriate policies are needed to address the negative impact. Finally, secondary and higher education enrollment rates can contribute to economic growth (both individual and regional) in ASEAN-5. However, regional analysis shows that higher education impacts are twice as strong when enrollment rates are above a certain kink point. ([Maneejuk, 2021](https://www.mdpi.com/2071-1050/13/2/520)).
 
 ## Significance of the proposed project
 
@@ -37,3 +37,23 @@ The exploratory analysis (EDA) method will be used for Quality Education Enhance
 ## Expected output 
 
 ## References
+Marquez-Ramos, L. and Mourelle, E., 2019. Education and economic growth: an empirical analysis of nonlinearities | Emerald Insight.
+https://www.emerald.com/insight/content/doi/10.1108/AEA-06-2019-0005/full/html#sec001
+
+Patrinos, H. A. (2016). Why education matters for economic development. Retrieved October, 15, 2020.
+https://blogs.worldbank.org/education/why-education-matters-economic-development
+
+Radcliffe, B. (2017). How Education and Training Affect the Economy. Investopedia.
+https://www.investopedia.com/articles/economics/09/education-training-advantages.asp#toc-why-is-education-considered-an-economic-good
+
+Childhope Philippines. (2021, August 25). The Current Education Issues in the Philippines — and How Childhope Rises to the Challenge.
+https://childhope.org.ph/education-issues-in-the-philippines/#
+
+Maneejuk, P. (2021). The Impact of Higher Education on Economic Growth in ASEAN-5 Countries. MDPI. 
+https://www.mdpi.com/2071-1050/13/2/520
+
+M., A, R., A, R., Blazhevska, V., D., M., & Intern, D. D. (2020, July 23). Education. United Nations Sustainable Development.
+https://www.un.org/sustainabledevelopment/education/
+
+M., M., M., Blazhevska, V., M., M., D., D., D., & D. (2020, August 11). Economic Growth. United Nations Sustainable Development.
+https://www.un.org/sustainabledevelopment/economic-growth/
