@@ -61,5 +61,14 @@ https://www.un.org/sustainabledevelopment/education/
 M., M., M., Blazhevska, V., M., M., D., D., D., & D. (2020, August 11). Economic Growth. United Nations Sustainable Development.
 https://www.un.org/sustainabledevelopment/economic-growth/
 
+Canals, C. (2020, April 5). Education and economic growth. Mendeley Data.
+https://data.mendeley.com/datasets/rnkbj5nh8g/1
+
+Hanushek, E. A. (2012, June 5). The Role of Education Quality for Economic Growth. Policy Research Working Paper; No. 4122. World Bank, Washington, DC. © World Bank. https://openknowledge.worldbank.org/handle/10986/7154?fbclid=IwAR14UduReLEIbY_BVCVsHJd8p7ljFxd5D0S_gGe7V83cs-cj2DZGxuuMvRA
+
+Sarwar, S. (2019). Nexus Among Economic Growth, Education, Health, and Environment: Dynamic Analysis of World-Level Data. Frontiers. 
+https://www.frontiersin.org/articles/10.3389/fpubh.2019.00307/full
+
+
 Datasets : https://data.un.org/default.aspx?fbclid=IwAR2SoJvqvjgAjvmc5L4nLjRcvUEkVx1ZqrbbzAe0nY0J-G6m5OrnGnESVxg
 
