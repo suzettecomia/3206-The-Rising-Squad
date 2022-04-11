@@ -13,7 +13,8 @@ There are three main outcomes. First, the nonlinear effect of per capita governm
 
 ## Significance of the proposed project
 
-This proposed project will redound to society’s benefit, considering that the enhancement of quality education will play a vital role in our economy today. The greater demand for graduates with a background having the enhancement of quality education will be more effective on our economy. Considering that background, this proposed topic will lead many people to help achieve economic growth because many of them will be equipped with strong knowledge for the future.
+
+This proposed project will help society because the improvement of excellent education is a vital part of our economy today. Our economy will be more effective if there is a higher demand for graduates with a background in quality education. Given that context, the proposed topic will motivate a large number of people to contribute to economic progress by providing them with good knowledge for the future.
 
 This study will be beneficial to:
 
