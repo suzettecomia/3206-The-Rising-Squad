@@ -19,8 +19,7 @@ This study will be beneficial to:
 
 __The Students__
 
-The direct recipients of the output of this proposed topic are the students. The improvement of the quality of their education will give them a better opportunity to have more knowledge and somehow give them some more experience on the things that they will possibly encounter in their future. Also, this study will be a great help to the students because it will serve as a guide in doing their research.
-
+The students will be the immediate recipients of the proposed topic's production. Improvements in the quality of their education will provide them with a greater opportunity to gain more information and experience with the topics they will likely meet in the future. This study will also be beneficial to students because it will act as a guide for conducting research.
 
 __The Teachers__
 
