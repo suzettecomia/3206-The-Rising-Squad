@@ -1,9 +1,12 @@
 # Project Title: Quality Education Enhancement Lead to Economic Growth
 ## SDG 
 Goal 4: Quality Education
+
 ![images](https://user-images.githubusercontent.com/102576902/169940148-75eb6561-4da8-4148-85d4-d96cd2217a51.png)
 
 Goal 8: Decent Work and Economic Growth
+
+![images (1)](https://user-images.githubusercontent.com/102576902/169940569-a897d27b-3161-4de1-b879-522dc3ca64e3.png)
 
 ## Introduction
 Education is important for achieving economic and social progress, enhancing people's lives, and rising income. Also, it increases people's productivity while also boosting business and technological growth. Most countries are now on the point of expanding access to various school levels, as well as taking the initiative to resolve difficulties in education at all levels. No country can achieve economic growth without a substantial investment in human capital.
