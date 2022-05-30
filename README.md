@@ -1,5 +1,5 @@
 # Project Title: Quality Education Enhancement Lead to Economic Growth
-### SDG 
+### Sustainable Development Goals (SDGs) 
 Goal 4: Quality Education & Goal 8: Decent Work and Economic Growth
 
 <img src="https://user-images.githubusercontent.com/102576902/169940148-75eb6561-4da8-4148-85d4-d96cd2217a51.png" width="150" height="150"> <img src="https://user-images.githubusercontent.com/102576902/169940569-a897d27b-3161-4de1-b879-522dc3ca64e3.png" width="150" height="150">
