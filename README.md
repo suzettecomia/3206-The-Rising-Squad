@@ -46,12 +46,12 @@ The exploratory analysis (EDA) method will be used for Quality Education Enhance
 The study plans to do an exploratory data analysis of education and economic growth conditions in many countries over the past years. The data sets from UN data will be used in this project to gather all of the data needed. The data sets will help to assess each country's education and income ratios. The data that researchers collect is conducted to evaluate the rates of various countries in order to manage education-enhancing, for effective economic growth. Data collected shows that with each higher degree of educational attainment, citizens have better employment rates. Individuals with higher degrees of education gain more benefits and it is easier for them to find work, learn new skills and have more experiences, and make more money while working than those with lower levels of education. Analyzing the methods of successful countries will provide the way for the economy to grow.
 
 ## Contributors
-(IT-BA 3206)
-1. Comia, Suzette
-2. Delgado, Lealyne
-3. Gabriel, Jasper Keith
+The Rising Squad - ITBA 3206
+1. Comia, Suzette C.
+2. Delgado, Lealyne S.
+3. Gabriel, Jasper Keith D.
 4. Gutierrez, Kaye Ann A. 
-5. Hernandez, Jayred
+5. Hernandez, Jayred C.
 
 ## References
 Marquez-Ramos, L. and Mourelle, E., 2019. Education and economic growth: an empirical analysis of nonlinearities | Emerald Insight.
