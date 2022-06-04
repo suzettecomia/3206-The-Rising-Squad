@@ -53,7 +53,12 @@ The Rising Squad - ITBA 3206
 4. Gutierrez, Kaye Ann A. 
 5. Hernandez, Jayred C.
 
+# VIDEO PRESENTATION
+
+[![THE RISING SQUAD - Recorded Presentation](https://user-images.githubusercontent.com/102496565/171981358-1581a282-1a9e-4306-aab7-4232e1c05fa9.PNG)](https://drive.google.com/file/d/1d5VQqHAQIkeBmtxkvfgAjyn3MbFQlMaj/view?usp=sharing)
+
 ## References
+
 Marquez-Ramos, L. and Mourelle, E., 2019. Education and economic growth: an empirical analysis of nonlinearities | Emerald Insight.
 https://www.emerald.com/insight/content/doi/10.1108/AEA-06-2019-0005/full/html#sec001
 
