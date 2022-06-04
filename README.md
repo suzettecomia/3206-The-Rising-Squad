@@ -45,6 +45,13 @@ The exploratory analysis (EDA) method will be used for Quality Education Enhance
 ## Expected output 
 The study plans to do an exploratory data analysis of education and economic growth conditions in many countries over the past years. The data sets from UN data will be used in this project to gather all of the data needed. The data sets will help to assess each country's education and income ratios. The data that researchers collect is conducted to evaluate the rates of various countries in order to manage education-enhancing, for effective economic growth. Data collected shows that with each higher degree of educational attainment, citizens have better employment rates. Individuals with higher degrees of education gain more benefits and it is easier for them to find work, learn new skills and have more experiences, and make more money while working than those with lower levels of education. Analyzing the methods of successful countries will provide the way for the economy to grow.
 
+# VIDEO PRESENTATION
+
+[![THE RISING SQUAD - Recorded Presentation](https://user-images.githubusercontent.com/102496565/171981358-1581a282-1a9e-4306-aab7-4232e1c05fa9.PNG)](https://drive.google.com/file/d/1d5VQqHAQIkeBmtxkvfgAjyn3MbFQlMaj/view?usp=sharing)
+
+[THE RISING SQUAD - Recorded Presentation Link](https://drive.google.com/file/d/1d5VQqHAQIkeBmtxkvfgAjyn3MbFQlMaj/view?usp=sharing)
+
+
 ## Contributors
 The Rising Squad - ITBA 3206
 1. Comia, Suzette C.
@@ -53,9 +60,6 @@ The Rising Squad - ITBA 3206
 4. Gutierrez, Kaye Ann A. 
 5. Hernandez, Jayred C.
 
-# VIDEO PRESENTATION
-
-[![THE RISING SQUAD - Recorded Presentation](https://user-images.githubusercontent.com/102496565/171981358-1581a282-1a9e-4306-aab7-4232e1c05fa9.PNG)](https://drive.google.com/file/d/1d5VQqHAQIkeBmtxkvfgAjyn3MbFQlMaj/view?usp=sharing)
 
 ## References
 
