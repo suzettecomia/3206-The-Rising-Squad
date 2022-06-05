@@ -47,9 +47,9 @@ The study plans to do an exploratory data analysis of education and economic gro
 
 # VIDEO PRESENTATION
 
-[![THE RISING SQUAD - Recorded Presentation](https://user-images.githubusercontent.com/102496565/171981358-1581a282-1a9e-4306-aab7-4232e1c05fa9.PNG)](https://drive.google.com/file/d/1d5VQqHAQIkeBmtxkvfgAjyn3MbFQlMaj/view?usp=sharing)
+[![THE RISING SQUAD - Recorded Presentation](https://user-images.githubusercontent.com/102496565/171981358-1581a282-1a9e-4306-aab7-4232e1c05fa9.PNG)](https://youtu.be/2Fn_YJVrueg)
 
-[THE RISING SQUAD - Recorded Presentation Link](https://drive.google.com/file/d/1d5VQqHAQIkeBmtxkvfgAjyn3MbFQlMaj/view?usp=sharing)
+[THE RISING SQUAD - Recorded Presentation Link](https://youtu.be/2Fn_YJVrueg)
 
 
 ## Contributors
