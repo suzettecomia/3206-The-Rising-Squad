@@ -54,11 +54,17 @@ The study plans to do an exploratory data analysis of education and economic gro
 
 ## Contributors
 The Rising Squad - ITBA 3206
-1. Comia, Suzette C.
-2. Delgado, Lealyne S.
-3. Gabriel, Jasper Keith D.
-4. Gutierrez, Kaye Ann A. 
-5. Hernandez, Jayred C.
+
+
+<img src="https://user-images.githubusercontent.com/102496565/172753379-d7fe70ce-5b4e-4d52-8a65-0948fd22738e.jpg" width="150" height="150"> Comia, Suzette C. 
+
+<img src="https://user-images.githubusercontent.com/102496565/172754097-a8920bb6-531e-4a8c-aa38-f0b5ca331031.jpg" width="150" height="150"> Delgado, Lealyne S.
+
+<img src="https://user-images.githubusercontent.com/102496565/172754105-a54dc1ee-e2d2-48ba-8cc0-effe293979a0.jpg" width="150" height="150"> Gabriel, Jasper Keith D.
+
+<img src="https://user-images.githubusercontent.com/102496565/172754087-b5466897-5fa1-481a-8622-83f05ff069ca.jpg" width="150" height="150"> Gutierrez, Kaye Ann A. 
+
+<img src="https://user-images.githubusercontent.com/102496565/172754096-0e2320c1-b79d-41bc-93cd-2b1b2e34cf07.jpg" width="150" height="150"> Hernandez, Jayred C.
 
 
 ## References
